@@ -6,6 +6,7 @@ document.observe('dom:loaded', function(){
           parameters: {url: element},
           requestHeaders: {Accept: 'application/json'},
           onSuccess: function(transport){
+
             var json = transport.responseText.evalJSON(true);
 
             var html = '';

@@ -3,7 +3,7 @@ Contributors: Atrax
 Tags: toodoo, auth, avatar, comments, snapshots
 Requires at least: 2.0.2
 Tested up to: 2.5
-Stable tag: 2.0
+Stable tag: 2.0.1
 
 This plugin allows integrate toodoo.ru servises on your site.
 
