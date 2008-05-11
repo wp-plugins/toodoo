@@ -4,7 +4,7 @@ Plugin Name: toodoo-comment
 Plugin URI: http://toodoo.ru/support/wordpress
 Description: Авторизация toodoo для комментирования
 Author: Sol
-Version: 2.0.2
+Version: 2.1
 Author URI: http://toodoo.ru/user/7701/profile
 */
 
