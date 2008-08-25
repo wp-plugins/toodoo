@@ -1,5 +1,4 @@
 === toodoo ===
-Contributors: Sol
 Tags: toodoo, snapshot, comments
 Requires at least: 2.1
 Tested up to: 2.5.1
